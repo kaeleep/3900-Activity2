@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1><center>Kaelee Plante</center></h1>
+
+<h2>About Me</h2>
+<p>I am currently a Masters student in the Biomedical Informatics program. I hold a Bachelor's of Science in Genetics from Iowa State University.</p>
+<p>I have lived in Nebraska for almost four years and I have a cat named Lily.</p>
+
+<h3>Hobbies</h3>
+<ul>
+	<li>Reading</li>
+	<li>Dungeons and Dragons</li>
+	<li> Watching football -Go Chiefs!</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
