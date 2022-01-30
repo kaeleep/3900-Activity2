@@ -8,8 +8,8 @@
 <img src="23275367_1893812803963016_1975875945422869971_o.jpg" alt="Kaelee Smiling">
 
 <h2 style="text-align:center;">About Me</h2>
-<p>I am currently a Masters student in the Biomedical Informatics program. I hold a Bachelor's of Science in Genetics from Iowa State University.</p>
-<p>I have lived in Nebraska for almost four years and I have a cat named Lily.</p>
+<p>I am currently a Masters student in the Biomedical Informatics program. I hold a Bachelor's of Science in Genetics from Iowa State University. After graduation from Iowa State, I started working in the processing lab at Neogen, where I still currently work.</p>
+<p>I have lived in Nebraska for almost four years and I have a cat named Lily. </p>
 
 <hr>
 
@@ -17,7 +17,11 @@
 <ul>
 	<li>Reading</li>
 	<li>Dungeons and Dragons</li>
-	<li> Watching football -Go Chiefs!</li>
+	<li>Watching football -Go Chiefs!</li>
+	<li>Playing piano</li>
+
+<a href="3900-Activity2-Page2.txt">My Favorite Things</a>
+	
 </ul>
 
 
