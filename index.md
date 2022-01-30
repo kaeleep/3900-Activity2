@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html lang="en-US">
+<head>
+	<link rel="stylesheet" href="styles.css">
+</head>
 <body>
 <h1 style="text-align:center;">Kaelee Plante</h1>
 <img src="23275367_1893812803963016_1975875945422869971_o.jpg" alt="Kaelee Smiling">
